@@ -1,8 +1,8 @@
 # YTDL.cmd
 
-A simple batch file to make YTLD.exe easier to use
+A simple batch file to make [YouTube-DL](https://ytdl-org.github.io/youtube-dl/) easier to use
 
-Requires YouTube-DL.exe and, optionally, FFMPEG.exe
+Requires [YouTube-DL.exe](https://ytdl-org.github.io/youtube-dl/) and, optionally, [FFMPEG.exe](https://ffmpeg.org/download.html)
 
 This script provides an easy way to select specific video and/or audio streams and download all or part of your selection.
 
