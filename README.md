@@ -1,5 +1,7 @@
 # YTDL.cmd
 
+[![image](https://user-images.githubusercontent.com/79026235/152910441-59ba653c-5607-4f59-90c0-bc2851bf2688.png)Download the zip file](https://github.com/LesFerch/YTDL.cmd/archive/refs/heads/main.zip)
+
 A simple batch file to make [YouTube-DL](https://ytdl-org.github.io/youtube-dl/) easier to use
 
 ![image](https://github.com/LesFerch/YTDL.cmd/assets/79026235/5160a22f-15e0-43ce-976d-1ae4afa4cd28)
