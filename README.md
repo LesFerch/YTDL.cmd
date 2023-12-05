@@ -2,7 +2,7 @@
 
 A simple batch file to make [YouTube-DL](https://ytdl-org.github.io/youtube-dl/) easier to use
 
-![image](https://github.com/LesFerch/YTDL.cmd/assets/79026235/50ab8235-1971-4460-bb67-68ded286dd6b)
+![image](https://github.com/LesFerch/YTDL.cmd/assets/79026235/5160a22f-15e0-43ce-976d-1ae4afa4cd28)
 
 Requires [YouTube-DL.exe](https://ytdl-org.github.io/youtube-dl/) and, optionally, [FFMPEG.exe](https://ffmpeg.org/download.html)
 
